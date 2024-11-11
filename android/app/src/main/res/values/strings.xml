@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CasaDrive</string>
+    <string name="title_activity_main">CasaDrive</string>
+    <string name="package_name">com.casadrive.app</string>
+    <string name="custom_url_scheme">com.casadrive.app</string>
+</resources>
